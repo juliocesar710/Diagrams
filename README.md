@@ -83,3 +83,7 @@
      - `Data_Compra`: Data da compra do produto pelo cliente
      - `Quantidade`: Quantidade comprada pelo cliente
    - **Importância:** Permite o acompanhamento das vendas e preferências dos clientes, fornecendo dados valiosos para estratégias de marketing e melhorias no atendimento.
+
+
+# Diagrama
+![diagrama](./assets/diagramEcommerce.png)
