@@ -101,7 +101,7 @@ O modelo conceitual foi elaborado para capturar todas as entidades, atributos e 
 O diagrama conceitual representa visualmente as entidades, seus atributos e os relacionamentos entre elas. Ele foi desenvolvido utilizando o padrão Entidade-Relacionamento (ER).
 
 ### Visualização do Diagrama Conceitual
-![imagem do diagrama](./Oficina.drawio.png)
+![imagem do diagrama](./assets/Oficina.drawio.png)
 
 ---
 
